@@ -1,0 +1,6 @@
+{
+  "name": "Grafana-for-chinese",
+  "tagline": "MoonStack 一个致力于降低大数据方案学习和使用成本的团队",
+  "body": "# Grafana-For-Chinese-Path\r\n\r\n0x00  初衷 \r\n\r\n我是运维汪汪汪，几个月前，当我遇见有人用Grafana炫酷的时候，已经被深深的沉迷了。我并不喜欢但也不排斥Java，但对于ELK技术栈而言，虽各有优势，但谈不上大爱。 \r\n\r\n从运维的本职角度出发，我曾几个月前有近一个星期没有睡好觉，反复思索运维到底需要的是什么？如何来体现运维的价值？当我不断的尝试InfluxDB+Grafana的时候。\r\n\r\n当一个又一个坑被踩下去的时候，我们才发现，开源市场从来都不缺少专业的武器装备，每一个火爆的技术栈，面向的受众及所拥有的威力，我们应该更广一点还是更深一点？ \r\n\r\n为了降低学习和使用的成本，我们发布了Grafana For Chinese的这个汉化版，我们延续了作者的开源协议。\r\n这个GitHub项目（http://github.com/moonstack ）也将越来越庞大。\r\n\r\n这就是运维的踩坑之路，这就是我的成长之路。\r\n\r\n\r\n\r\n0x01 相关说明 \r\n\r\n首先，当前的这个汉化也许并不是很完美，有些地方还没有找到，但是我们将最主要的操作均实现了汉化。\r\n当前汉化对应官方的最新版 Grafana V3.0.1 正式版\r\n这个项目也会持续更新，敬请关注。\r\n\r\n\r\n0x02 使用方法 \r\n\r\n备份原有的 \r\n/public/app/boot.js \r\n/public/app/features/org/prefs_control.js \r\n再将master中的两个文件覆盖到对应的目录 \r\n刷新浏览器即可 \r\n\r\n0x03 加入我们 \r\n\r\n我们搞了一个QQ Group: 260827186 ,起了个霸气的名字 Grafana China Group，欢迎您的加入当然，我们也需要各路大神的帮助，如果你是 美工？前端？ GoLang、C、Java撸狗？ \r\n我们的团队需要你！ \r\n\r\n\r\n运维汪汪汪\r\nfeng@moonstack.org\r\n2016/5/13\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
